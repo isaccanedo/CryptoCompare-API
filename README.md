@@ -1,4 +1,4 @@
 # CryptoCompare-API
 ### Exemplo de como você pode usar a API CryptoCompare
 
-<img src="d
+<img src="display.jpg">
